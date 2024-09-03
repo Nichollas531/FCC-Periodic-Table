@@ -17,9 +17,9 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
+- [Git Tree](#git_tree)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
-- [Git Tree](#git_tree)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -139,7 +139,7 @@ Lastly, you need to make a script that accepts an argument in the form of an ato
 
 Here is a screenshot showing the git tree resulting of the work done
 
-<img source="git-tree.png" alt="Git Tree">
+<img src="git-tree.png" alt="Git Tree">
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
